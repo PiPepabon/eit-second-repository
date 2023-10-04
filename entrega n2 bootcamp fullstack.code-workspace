@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "entrega n2 bootcamp fullstack",
+		"liveServer.settings.port": 5501
+	}
+}
